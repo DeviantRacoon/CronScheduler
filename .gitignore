@@ -1,0 +1,12 @@
+# FILES
+.env
+.python-version
+*.pyc
+
+# FOLDERS
+__pycache__
+logs/*
+jsons/*
+
+
+
